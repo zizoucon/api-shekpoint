@@ -1,0 +1,11 @@
+.container{
+    border: 1px solid black;
+    height: 300px;
+    width: 200px;
+    background-color: #5f9ea0;
+    margin: 10px;
+
+}
+h1{
+    color: rgb(255, 255, 255);
+}
